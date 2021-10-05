@@ -19,7 +19,9 @@ Supplementary results are available [here](https://docs.google.com/presentation/
 @inproceedings{zheng2021programmable3dcam,
   title={A Simple Framework for 3D Lensless Imaging with Programmable Masks},
   author={Yucheng Zheng and Yi Hua and Aswin C. Sankaranarayanan and M. Salman Asif},
-  year={2021},
-  booktitle={ICCV},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  month     = {October},
+  year      = {2021},
+  pages     = {2603-2612}
 }
 ```
